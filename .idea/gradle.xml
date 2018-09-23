@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/MenuExample" />
+            <option value="$PROJECT_DIR$/ScreenLayoutDetect" />
             <option value="$PROJECT_DIR$/Vyacheslav" />
           </set>
         </option>
